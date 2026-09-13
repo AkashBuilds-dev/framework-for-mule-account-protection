@@ -1,0 +1,30 @@
+{
+    "model_name": "CatBoost",
+    "auc": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "training_timestamp": "2026-09-12 11:05:45",
+    "feature_list": [
+        "txn_count",
+        "velocity_per_hour",
+        "total_sent",
+        "total_received",
+        "pass_through_ratio",
+        "io_ratio",
+        "unique_senders",
+        "unique_receivers",
+        "avg_txn_amount",
+        "max_txn_amount",
+        "income_mismatch",
+        "account_age_days",
+        "kyc_match_score",
+        "device_shared_count",
+        "is_in_syndicate",
+        "dormancy_burst_score",
+        "beneficiary_churn_rate",
+        "structuring_score"
+    ],
+    "n_train": 1360,
+    "n_test": 340
+}

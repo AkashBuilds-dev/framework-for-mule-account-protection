@@ -1,0 +1,57 @@
+{
+    "best_model": "LogisticReg",
+    "metrics": {
+        "LogisticReg": {
+            "auc": 0.9801,
+            "precision": 0.7917,
+            "recall": 0.95,
+            "f1": 0.8636,
+            "precision_at_top10": 0.9,
+            "recall_at_top10": 0.45
+        },
+        "RandomForest": {
+            "auc": 0.9704,
+            "precision": 0.75,
+            "recall": 0.9,
+            "f1": 0.8182,
+            "precision_at_top10": 0.8,
+            "recall_at_top10": 0.4
+        },
+        "XGBoost": {
+            "auc": 0.9753,
+            "precision": 0.8125,
+            "recall": 0.65,
+            "f1": 0.7222,
+            "precision_at_top10": 0.8,
+            "recall_at_top10": 0.4
+        },
+        "GradientBoost": {
+            "auc": 0.9634,
+            "precision": 0.7222,
+            "recall": 0.65,
+            "f1": 0.6842,
+            "precision_at_top10": 0.8,
+            "recall_at_top10": 0.4
+        }
+    },
+    "grid_statistics": {
+        "total_cells": 449,
+        "high_risk_cells": 80,
+        "grid_resolution": "0.02 deg (~2km x 2km)"
+    },
+    "training_timestamp": "2026-09-11 20:30:59",
+    "features": [
+        "is_syndicate_hub",
+        "atm_count",
+        "dist_hub_km",
+        "dist_atm_km",
+        "is_urban",
+        "hist_withdrawal_count_30d",
+        "hist_withdrawal_amount_30d",
+        "hist_unique_cases",
+        "avg_withdrawal_amount",
+        "weekend_ratio",
+        "peak_hour",
+        "city_complaints"
+    ]
+}

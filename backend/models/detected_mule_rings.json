@@ -1,0 +1,165 @@
+[
+    {
+        "ring_id": "RING_001",
+        "size": 15,
+        "member_accounts": [
+            "M00002",
+            "M00003",
+            "M00009",
+            "M00030",
+            "M00037",
+            "M00057",
+            "M00072",
+            "M00079",
+            "M00107",
+            "M00114",
+            "M00127",
+            "M00147",
+            "M00149",
+            "M00162",
+            "M00184"
+        ],
+        "avg_risk_score": 0.9944000244140625,
+        "shared_devices": 6,
+        "shared_cities": [
+            "Gurugram",
+            "Hyderabad",
+            "Jamtara",
+            "Kolar",
+            "Mewat",
+            "Noida"
+        ],
+        "temporal": {
+            "first_seen": "2026-06-01 18:41:00",
+            "last_seen": "2026-07-24 20:42:00",
+            "active_days": 54,
+            "txn_per_day": 2.43,
+            "is_growing": false
+        }
+    },
+    {
+        "ring_id": "RING_002",
+        "size": 6,
+        "member_accounts": [
+            "M00048",
+            "M00096",
+            "M00118",
+            "M00131",
+            "M00153",
+            "M00188"
+        ],
+        "avg_risk_score": 1.0,
+        "shared_devices": 2,
+        "shared_cities": [
+            "Bengaluru",
+            "Chennai",
+            "Mewat"
+        ],
+        "temporal": {
+            "first_seen": "2026-06-02 00:29:00",
+            "last_seen": "2026-07-24 17:51:00",
+            "active_days": 53,
+            "txn_per_day": 2.68,
+            "is_growing": false
+        }
+    },
+    {
+        "ring_id": "RING_003",
+        "size": 7,
+        "member_accounts": [
+            "M00021",
+            "M00069",
+            "M00091",
+            "M00104",
+            "M00139",
+            "M00161",
+            "M00174"
+        ],
+        "avg_risk_score": 1.0,
+        "shared_devices": 2,
+        "shared_cities": [
+            "Bengaluru",
+            "Gurugram",
+            "Jamtara",
+            "Kolar"
+        ],
+        "temporal": {
+            "first_seen": "2026-06-01 21:11:00",
+            "last_seen": "2026-07-23 02:27:00",
+            "active_days": 53,
+            "txn_per_day": 4.89,
+            "is_growing": false
+        }
+    },
+    {
+        "ring_id": "RING_004",
+        "size": 20,
+        "member_accounts": [
+            "M00001",
+            "M00039",
+            "M00044",
+            "M00050",
+            "M00060",
+            "M00064",
+            "M00066",
+            "M00077",
+            "M00084",
+            "M00092",
+            "M00095",
+            "M00099",
+            "M00108",
+            "M00130",
+            "M00134",
+            "M00135",
+            "M00136",
+            "M00143",
+            "M00169",
+            "M00171"
+        ],
+        "avg_risk_score": 0.9850000143051147,
+        "shared_devices": 12,
+        "shared_cities": [
+            "Bengaluru",
+            "Chennai",
+            "Gurugram",
+            "Jamtara",
+            "Kolar",
+            "Mewat",
+            "Nellore",
+            "Noida"
+        ],
+        "temporal": {
+            "first_seen": "2026-06-01 21:46:00",
+            "last_seen": "2026-07-26 02:46:00",
+            "active_days": 56,
+            "txn_per_day": 2.8,
+            "is_growing": false
+        }
+    },
+    {
+        "ring_id": "RING_005",
+        "size": 5,
+        "member_accounts": [
+            "M00016",
+            "M00070",
+            "M00121",
+            "M00140",
+            "M00156"
+        ],
+        "avg_risk_score": 1.0,
+        "shared_devices": 2,
+        "shared_cities": [
+            "Bengaluru",
+            "Mewat",
+            "Nellore",
+            "Noida"
+        ],
+        "temporal": {
+            "first_seen": "2026-06-02 00:17:00",
+            "last_seen": "2026-07-23 19:25:00",
+            "active_days": 52,
+            "txn_per_day": 4.71,
+            "is_growing": false
+        }
+    }
+]

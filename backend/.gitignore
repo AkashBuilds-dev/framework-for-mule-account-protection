@@ -1,0 +1,36 @@
+# CatBoost auto-generated logs
+catboost_info/
+catboost_info
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+.pytest_cache/
+*.egg-info/
+
+# Models (large binary files — regenerate locally)
+*.pkl
+*.pt
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Frontend
+node_modules/
+dist/
+build/
+.next/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

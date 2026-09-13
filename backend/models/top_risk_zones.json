@@ -1,0 +1,376 @@
+[
+    {
+        "cell_id": "CELL_0123",
+        "lat": 28.45,
+        "lon": 77.03,
+        "city": "Gurugram",
+        "risk_score": 0.8699,
+        "predicted_withdrawal_window": "23:30 to 01:30",
+        "estimated_amount_at_risk": 136000,
+        "nearest_atms": [
+            "ATM_003",
+            "ATM_005",
+            "ATM_013"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Gurugram)",
+            "Heavy repeat cash-out history (54 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Dense ATM infrastructure (3 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0236",
+        "lat": 13.15,
+        "lon": 78.15,
+        "city": "Kolar",
+        "risk_score": 0.8571,
+        "predicted_withdrawal_window": "07:30 to 09:30",
+        "estimated_amount_at_risk": 200000,
+        "nearest_atms": [
+            "ATM_101",
+            "ATM_102",
+            "ATM_104"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Kolar)",
+            "Heavy repeat cash-out history (129 events in 30d)",
+            "Dense ATM infrastructure (5 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0084",
+        "lat": 13.09,
+        "lon": 80.29,
+        "city": "Chennai",
+        "risk_score": 0.8527,
+        "predicted_withdrawal_window": "07:30 to 09:30",
+        "estimated_amount_at_risk": 137000,
+        "nearest_atms": [
+            "ATM_087",
+            "ATM_088",
+            "ATM_098"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Chennai)",
+            "Heavy repeat cash-out history (58 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Dense ATM infrastructure (3 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0411",
+        "lat": 14.49,
+        "lon": 79.95,
+        "city": "Nellore",
+        "risk_score": 0.8447,
+        "predicted_withdrawal_window": "23:30 to 01:30",
+        "estimated_amount_at_risk": 200000,
+        "nearest_atms": [
+            "ATM_111"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Nellore)",
+            "Heavy repeat cash-out history (27 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot"
+        ]
+    },
+    {
+        "cell_id": "CELL_0155",
+        "lat": 17.35,
+        "lon": 78.51,
+        "city": "Hyderabad",
+        "risk_score": 0.828,
+        "predicted_withdrawal_window": "21:30 to 23:30",
+        "estimated_amount_at_risk": 90000,
+        "nearest_atms": [
+            "ATM_080",
+            "ATM_081"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Hyderabad)",
+            "Heavy repeat cash-out history (32 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Dense ATM infrastructure (2 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0102",
+        "lat": 11.01,
+        "lon": 76.97,
+        "city": "Coimbatore",
+        "risk_score": 0.8199,
+        "predicted_withdrawal_window": "18:30 to 20:30",
+        "estimated_amount_at_risk": 200000,
+        "nearest_atms": [
+            "ATM_144",
+            "ATM_147"
+        ],
+        "reasoning": [
+            "Heavy repeat cash-out history (32 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Dense ATM infrastructure (2 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0127",
+        "lat": 28.47,
+        "lon": 76.99,
+        "city": "Gurugram",
+        "risk_score": 0.8185,
+        "predicted_withdrawal_window": "00:30 to 02:30",
+        "estimated_amount_at_risk": 178000,
+        "nearest_atms": [
+            "ATM_007",
+            "ATM_012"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Gurugram)",
+            "Heavy repeat cash-out history (38 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Dense ATM infrastructure (2 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0178",
+        "lat": 17.41,
+        "lon": 78.55,
+        "city": "Hyderabad",
+        "risk_score": 0.8045,
+        "predicted_withdrawal_window": "06:30 to 08:30",
+        "estimated_amount_at_risk": 99000,
+        "nearest_atms": [
+            "ATM_084"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Hyderabad)",
+            "Heavy repeat cash-out history (16 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0432",
+        "lat": 28.53,
+        "lon": 77.39,
+        "city": "Noida",
+        "risk_score": 0.7841,
+        "predicted_withdrawal_window": "08:30 to 10:30",
+        "estimated_amount_at_risk": 119000,
+        "nearest_atms": [
+            "ATM_022"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Noida)",
+            "Heavy repeat cash-out history (32 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0301",
+        "lat": 28.11,
+        "lon": 77.01,
+        "city": "Mewat",
+        "risk_score": 0.7668,
+        "predicted_withdrawal_window": "04:30 to 06:30",
+        "estimated_amount_at_risk": 158000,
+        "nearest_atms": [
+            "ATM_046",
+            "ATM_049",
+            "ATM_053"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Mewat)",
+            "Heavy repeat cash-out history (54 events in 30d)",
+            "Dense ATM infrastructure (3 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0205",
+        "lat": 23.97,
+        "lon": 86.77,
+        "city": "Jamtara",
+        "risk_score": 0.7621,
+        "predicted_withdrawal_window": "22:30 to 00:30",
+        "estimated_amount_at_risk": 77000,
+        "nearest_atms": [
+            "ATM_040"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Jamtara)",
+            "Heavy repeat cash-out history (22 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot"
+        ]
+    },
+    {
+        "cell_id": "CELL_0300",
+        "lat": 28.11,
+        "lon": 76.99,
+        "city": "Mewat",
+        "risk_score": 0.7598,
+        "predicted_withdrawal_window": "23:30 to 01:30",
+        "estimated_amount_at_risk": 53000,
+        "nearest_atms": [
+            "ATM_050"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Mewat)",
+            "Heavy repeat cash-out history (24 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0272",
+        "lat": 22.61,
+        "lon": 88.33,
+        "city": "Kolkata",
+        "risk_score": 0.755,
+        "predicted_withdrawal_window": "04:30 to 06:30",
+        "estimated_amount_at_risk": 91000,
+        "nearest_atms": [
+            "ATM_134",
+            "ATM_136",
+            "ATM_142"
+        ],
+        "reasoning": [
+            "Heavy repeat cash-out history (11 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Dense ATM infrastructure (3 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0014",
+        "lat": 12.93,
+        "lon": 77.61,
+        "city": "Bengaluru",
+        "risk_score": 0.7524,
+        "predicted_withdrawal_window": "03:30 to 05:30",
+        "estimated_amount_at_risk": 59000,
+        "nearest_atms": [
+            "ATM_067"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Bengaluru)",
+            "Heavy repeat cash-out history (34 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot"
+        ]
+    },
+    {
+        "cell_id": "CELL_0169",
+        "lat": 17.39,
+        "lon": 78.51,
+        "city": "Hyderabad",
+        "risk_score": 0.7518,
+        "predicted_withdrawal_window": "02:30 to 04:30",
+        "estimated_amount_at_risk": 106000,
+        "nearest_atms": [
+            "ATM_073"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Hyderabad)",
+            "Heavy repeat cash-out history (28 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0031",
+        "lat": 12.97,
+        "lon": 77.59,
+        "city": "Bengaluru",
+        "risk_score": 0.7482,
+        "predicted_withdrawal_window": "23:30 to 01:30",
+        "estimated_amount_at_risk": 76000,
+        "nearest_atms": [
+            "ATM_055"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Bengaluru)",
+            "Heavy repeat cash-out history (31 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot"
+        ]
+    },
+    {
+        "cell_id": "CELL_0110",
+        "lat": 28.41,
+        "lon": 77.01,
+        "city": "Gurugram",
+        "risk_score": 0.7436,
+        "predicted_withdrawal_window": "03:30 to 05:30",
+        "estimated_amount_at_risk": 64000,
+        "nearest_atms": [
+            "ATM_008"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Gurugram)",
+            "Heavy repeat cash-out history (14 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0439",
+        "lat": 28.55,
+        "lon": 77.39,
+        "city": "Noida",
+        "risk_score": 0.741,
+        "predicted_withdrawal_window": "00:30 to 02:30",
+        "estimated_amount_at_risk": 200000,
+        "nearest_atms": [
+            "ATM_021",
+            "ATM_026"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Noida)",
+            "Heavy repeat cash-out history (42 events in 30d)",
+            "Dense ATM infrastructure (2 terminals within 2km)",
+            "Commercial/transit transit-hub exit route"
+        ]
+    },
+    {
+        "cell_id": "CELL_0398",
+        "lat": 14.43,
+        "lon": 79.99,
+        "city": "Nellore",
+        "risk_score": 0.741,
+        "predicted_withdrawal_window": "05:30 to 07:30",
+        "estimated_amount_at_risk": 182000,
+        "nearest_atms": [
+            "ATM_110",
+            "ATM_116"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Nellore)",
+            "Heavy repeat cash-out history (27 events in 30d)",
+            "Dense ATM infrastructure (2 terminals within 2km)"
+        ]
+    },
+    {
+        "cell_id": "CELL_0238",
+        "lat": 13.15,
+        "lon": 78.19,
+        "city": "Kolar",
+        "risk_score": 0.7409,
+        "predicted_withdrawal_window": "10:30 to 12:30",
+        "estimated_amount_at_risk": 76000,
+        "nearest_atms": [
+            "ATM_105"
+        ],
+        "reasoning": [
+            "Located in prime cybercrime syndicate corridor (Kolar)",
+            "Heavy repeat cash-out history (38 events in 30d)",
+            "High spatial overlap with verified DBSCAN cash-out hotspot",
+            "Commercial/transit transit-hub exit route"
+        ]
+    }
+]

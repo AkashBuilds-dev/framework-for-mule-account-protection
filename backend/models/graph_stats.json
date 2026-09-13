@@ -1,0 +1,262 @@
+{
+    "total_nodes": 1700,
+    "total_edges": 3651,
+    "weakly_connected_components": 90,
+    "mean_degree": 4.3,
+    "max_degree": 35,
+    "ground_truth_mule_clusters": 35,
+    "top_10_hubs": [
+        {
+            "account_id": "M00191",
+            "degree": 35,
+            "in_degree": 33,
+            "out_degree": 2,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Bengaluru"
+        },
+        {
+            "account_id": "M00035",
+            "degree": 34,
+            "in_degree": 32,
+            "out_degree": 2,
+            "risk_label": 1,
+            "syndicate_id": "SYN_035",
+            "city": "Jamtara"
+        },
+        {
+            "account_id": "M00086",
+            "degree": 34,
+            "in_degree": 32,
+            "out_degree": 2,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Noida"
+        },
+        {
+            "account_id": "M00121",
+            "degree": 31,
+            "in_degree": 28,
+            "out_degree": 3,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Bengaluru"
+        },
+        {
+            "account_id": "M00175",
+            "degree": 31,
+            "in_degree": 27,
+            "out_degree": 4,
+            "risk_label": 1,
+            "syndicate_id": "SYN_035",
+            "city": "Nellore"
+        },
+        {
+            "account_id": "M00070",
+            "degree": 30,
+            "in_degree": 28,
+            "out_degree": 2,
+            "risk_label": 1,
+            "syndicate_id": "SYN_035",
+            "city": "Noida"
+        },
+        {
+            "account_id": "M00156",
+            "degree": 30,
+            "in_degree": 28,
+            "out_degree": 2,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Bengaluru"
+        },
+        {
+            "account_id": "M00051",
+            "degree": 29,
+            "in_degree": 28,
+            "out_degree": 1,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Jamtara"
+        },
+        {
+            "account_id": "M00105",
+            "degree": 29,
+            "in_degree": 27,
+            "out_degree": 2,
+            "risk_label": 1,
+            "syndicate_id": "SYN_035",
+            "city": "Nellore"
+        },
+        {
+            "account_id": "M00132",
+            "degree": 28,
+            "in_degree": 24,
+            "out_degree": 4,
+            "risk_label": 1,
+            "syndicate_id": "SYN_027",
+            "city": "Hyderabad"
+        }
+    ],
+    "influence_hubs": [
+        {
+            "account_id": "M00121",
+            "pagerank": 0.012494,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Bengaluru",
+            "degree": 31
+        },
+        {
+            "account_id": "M00156",
+            "pagerank": 0.00931,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Bengaluru",
+            "degree": 30
+        },
+        {
+            "account_id": "M00086",
+            "pagerank": 0.008978,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Noida",
+            "degree": 34
+        },
+        {
+            "account_id": "M00139",
+            "pagerank": 0.008155,
+            "risk_label": 1,
+            "syndicate_id": "SYN_034",
+            "city": "Kolar",
+            "degree": 24
+        },
+        {
+            "account_id": "M00115",
+            "pagerank": 0.007793,
+            "risk_label": 1,
+            "syndicate_id": "SYN_010",
+            "city": "Nellore",
+            "degree": 23
+        },
+        {
+            "account_id": "M00183",
+            "pagerank": 0.007569,
+            "risk_label": 1,
+            "syndicate_id": "SYN_008",
+            "city": "Chennai",
+            "degree": 25
+        },
+        {
+            "account_id": "M00196",
+            "pagerank": 0.007056,
+            "risk_label": 1,
+            "syndicate_id": "SYN_021",
+            "city": "Bengaluru",
+            "degree": 28
+        },
+        {
+            "account_id": "M00043",
+            "pagerank": 0.006957,
+            "risk_label": 1,
+            "syndicate_id": "SYN_008",
+            "city": "Jamtara",
+            "degree": 21
+        },
+        {
+            "account_id": "M00069",
+            "pagerank": 0.00686,
+            "risk_label": 1,
+            "syndicate_id": "SYN_034",
+            "city": "Gurugram",
+            "degree": 27
+        },
+        {
+            "account_id": "M00172",
+            "pagerank": 0.006775,
+            "risk_label": 1,
+            "syndicate_id": "SYN_032",
+            "city": "Hyderabad",
+            "degree": 19
+        },
+        {
+            "account_id": "M00021",
+            "pagerank": 0.00671,
+            "risk_label": 1,
+            "syndicate_id": "SYN_021",
+            "city": "Gurugram",
+            "degree": 23
+        },
+        {
+            "account_id": "M00061",
+            "pagerank": 0.006557,
+            "risk_label": 1,
+            "syndicate_id": "SYN_026",
+            "city": "Gurugram",
+            "degree": 19
+        },
+        {
+            "account_id": "M00161",
+            "pagerank": 0.006447,
+            "risk_label": 1,
+            "syndicate_id": "SYN_021",
+            "city": "Bengaluru",
+            "degree": 23
+        },
+        {
+            "account_id": "M00132",
+            "pagerank": 0.006277,
+            "risk_label": 1,
+            "syndicate_id": "SYN_027",
+            "city": "Hyderabad",
+            "degree": 28
+        },
+        {
+            "account_id": "M00167",
+            "pagerank": 0.006186,
+            "risk_label": 1,
+            "syndicate_id": "SYN_027",
+            "city": "Hyderabad",
+            "degree": 28
+        },
+        {
+            "account_id": "M00078",
+            "pagerank": 0.006043,
+            "risk_label": 1,
+            "syndicate_id": "SYN_008",
+            "city": "Noida",
+            "degree": 26
+        },
+        {
+            "account_id": "M00145",
+            "pagerank": 0.005887,
+            "risk_label": 1,
+            "syndicate_id": "SYN_005",
+            "city": "Nellore",
+            "degree": 13
+        },
+        {
+            "account_id": "M00054",
+            "pagerank": 0.005626,
+            "risk_label": 1,
+            "syndicate_id": "SYN_019",
+            "city": "Noida",
+            "degree": 12
+        },
+        {
+            "account_id": "M00051",
+            "pagerank": 0.005318,
+            "risk_label": 1,
+            "syndicate_id": "SYN_016",
+            "city": "Jamtara",
+            "degree": 29
+        },
+        {
+            "account_id": "M00097",
+            "pagerank": 0.005191,
+            "risk_label": 1,
+            "syndicate_id": "SYN_027",
+            "city": "Gurugram",
+            "degree": 24
+        }
+    ]
+}

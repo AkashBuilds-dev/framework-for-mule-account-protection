@@ -1,0 +1,262 @@
+[
+    {
+        "chain_id": "CHAIN_001",
+        "length": 5,
+        "path": [
+            "VACC_0308",
+            "M00096",
+            "M00166",
+            "M00026",
+            "M00061",
+            "M00131"
+        ],
+        "total_amount": 762999.0
+    },
+    {
+        "chain_id": "CHAIN_002",
+        "length": 5,
+        "path": [
+            "VACC_0332",
+            "M00167",
+            "M00132",
+            "M00097",
+            "M00027",
+            "M00062"
+        ],
+        "total_amount": 733499.0
+    },
+    {
+        "chain_id": "CHAIN_003",
+        "length": 5,
+        "path": [
+            "VACC_0064",
+            "M00113",
+            "M00078",
+            "M00008",
+            "M00148",
+            "M00043"
+        ],
+        "total_amount": 728000.0
+    },
+    {
+        "chain_id": "CHAIN_004",
+        "length": 5,
+        "path": [
+            "VACC_0319",
+            "M00062",
+            "M00027",
+            "M00167",
+            "M00132",
+            "M00097"
+        ],
+        "total_amount": 718497.0
+    },
+    {
+        "chain_id": "CHAIN_005",
+        "length": 5,
+        "path": [
+            "VACC_0064",
+            "M00113",
+            "M00078",
+            "M00148",
+            "M00043",
+            "M00183"
+        ],
+        "total_amount": 713000.0
+    },
+    {
+        "chain_id": "CHAIN_006",
+        "length": 5,
+        "path": [
+            "VACC_0326",
+            "M00167",
+            "M00132",
+            "M00097",
+            "M00027",
+            "M00062"
+        ],
+        "total_amount": 696999.0
+    },
+    {
+        "chain_id": "CHAIN_007",
+        "length": 5,
+        "path": [
+            "VACC_0360",
+            "M00032",
+            "M00137",
+            "M00067",
+            "M00172",
+            "M00102"
+        ],
+        "total_amount": 692499.0
+    },
+    {
+        "chain_id": "CHAIN_008",
+        "length": 5,
+        "path": [
+            "VACC_0319",
+            "M00062",
+            "M00027",
+            "M00132",
+            "M00097",
+            "M00167"
+        ],
+        "total_amount": 688497.0
+    },
+    {
+        "chain_id": "CHAIN_009",
+        "length": 5,
+        "path": [
+            "VACC_0205",
+            "M00158",
+            "M00193",
+            "M00123",
+            "M00053",
+            "M00088"
+        ],
+        "total_amount": 686499.0
+    },
+    {
+        "chain_id": "CHAIN_010",
+        "length": 5,
+        "path": [
+            "VACC_0361",
+            "M00067",
+            "M00032",
+            "M00137",
+            "M00172",
+            "M00102"
+        ],
+        "total_amount": 685999.0
+    },
+    {
+        "chain_id": "CHAIN_011",
+        "length": 5,
+        "path": [
+            "VACC_0332",
+            "M00167",
+            "M00132",
+            "M00027",
+            "M00062",
+            "M00097"
+        ],
+        "total_amount": 683499.0
+    },
+    {
+        "chain_id": "CHAIN_012",
+        "length": 5,
+        "path": [
+            "VACC_0129",
+            "M00188",
+            "M00083",
+            "M00118",
+            "M00048",
+            "M00153"
+        ],
+        "total_amount": 681000.0
+    },
+    {
+        "chain_id": "CHAIN_013",
+        "length": 5,
+        "path": [
+            "VACC_0369",
+            "M00032",
+            "M00137",
+            "M00067",
+            "M00172",
+            "M00102"
+        ],
+        "total_amount": 680498.0
+    },
+    {
+        "chain_id": "CHAIN_014",
+        "length": 5,
+        "path": [
+            "VACC_0302",
+            "M00166",
+            "M00026",
+            "M00061",
+            "M00131",
+            "M00096"
+        ],
+        "total_amount": 679498.0
+    },
+    {
+        "chain_id": "CHAIN_015",
+        "length": 5,
+        "path": [
+            "VACC_0129",
+            "M00118",
+            "M00188",
+            "M00083",
+            "M00013",
+            "M00153"
+        ],
+        "total_amount": 678498.0
+    },
+    {
+        "chain_id": "CHAIN_016",
+        "length": 5,
+        "path": [
+            "VACC_0326",
+            "M00132",
+            "M00097",
+            "M00027",
+            "M00062",
+            "M00167"
+        ],
+        "total_amount": 677498.0
+    },
+    {
+        "chain_id": "CHAIN_017",
+        "length": 5,
+        "path": [
+            "VACC_0129",
+            "M00188",
+            "M00083",
+            "M00118",
+            "M00013",
+            "M00153"
+        ],
+        "total_amount": 676000.0
+    },
+    {
+        "chain_id": "CHAIN_018",
+        "length": 5,
+        "path": [
+            "VACC_0332",
+            "M00167",
+            "M00062",
+            "M00027",
+            "M00132",
+            "M00097"
+        ],
+        "total_amount": 673499.0
+    },
+    {
+        "chain_id": "CHAIN_019",
+        "length": 5,
+        "path": [
+            "VACC_0332",
+            "M00167",
+            "M00097",
+            "M00132",
+            "M00027",
+            "M00062"
+        ],
+        "total_amount": 668499.0
+    },
+    {
+        "chain_id": "CHAIN_020",
+        "length": 5,
+        "path": [
+            "VACC_0326",
+            "M00132",
+            "M00097",
+            "M00167",
+            "M00062",
+            "M00027"
+        ],
+        "total_amount": 667498.0
+    }
+]

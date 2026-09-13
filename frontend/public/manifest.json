@@ -1,0 +1,11 @@
+{
+  "name": "MuleShield Field Terminal — I4C",
+  "short_name": "MST-Field",
+  "description": "I4C Cybercrime Field Response Terminal",
+  "start_url": "/field",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0E1A",
+  "theme_color": "#06B6D4",
+  "icons": [{ "src": "/field-shield.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

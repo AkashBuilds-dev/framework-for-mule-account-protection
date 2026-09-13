@@ -1,0 +1,182 @@
+[
+    {
+        "cluster_id": "HOTSPOT_019",
+        "center_lat": 28.5324,
+        "center_lon": 77.3862,
+        "withdrawal_count": 695,
+        "total_amount_withdrawn": 8051500.0,
+        "city": "Noida",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_002",
+        "center_lat": 23.9635,
+        "center_lon": 86.807,
+        "withdrawal_count": 448,
+        "total_amount_withdrawn": 5257500.0,
+        "city": "Jamtara",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_010",
+        "center_lat": 28.1092,
+        "center_lon": 76.9936,
+        "withdrawal_count": 448,
+        "total_amount_withdrawn": 5194000.0,
+        "city": "Mewat",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_001",
+        "center_lat": 13.1382,
+        "center_lon": 78.1368,
+        "withdrawal_count": 432,
+        "total_amount_withdrawn": 5051500.0,
+        "city": "Kolar",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_008",
+        "center_lat": 28.4466,
+        "center_lon": 77.0278,
+        "withdrawal_count": 361,
+        "total_amount_withdrawn": 4149500.0,
+        "city": "Gurugram",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_012",
+        "center_lat": 14.4392,
+        "center_lon": 79.9826,
+        "withdrawal_count": 310,
+        "total_amount_withdrawn": 3596000.0,
+        "city": "Nellore",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_004",
+        "center_lat": 13.084,
+        "center_lon": 80.2888,
+        "withdrawal_count": 302,
+        "total_amount_withdrawn": 3561500.0,
+        "city": "Chennai",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_036",
+        "center_lat": 17.3993,
+        "center_lon": 78.5094,
+        "withdrawal_count": 238,
+        "total_amount_withdrawn": 2697000.0,
+        "city": "Hyderabad",
+        "dbscan_confidence": 1.0
+    },
+    {
+        "cluster_id": "HOTSPOT_015",
+        "center_lat": 12.9725,
+        "center_lon": 77.593,
+        "withdrawal_count": 148,
+        "total_amount_withdrawn": 1726000.0,
+        "city": "Bengaluru",
+        "dbscan_confidence": 0.9867
+    },
+    {
+        "cluster_id": "HOTSPOT_025",
+        "center_lat": 28.4632,
+        "center_lon": 76.9866,
+        "withdrawal_count": 114,
+        "total_amount_withdrawn": 1373000.0,
+        "city": "Gurugram",
+        "dbscan_confidence": 0.76
+    },
+    {
+        "cluster_id": "HOTSPOT_018",
+        "center_lat": 13.0017,
+        "center_lon": 77.5577,
+        "withdrawal_count": 108,
+        "total_amount_withdrawn": 1234500.0,
+        "city": "Bengaluru",
+        "dbscan_confidence": 0.72
+    },
+    {
+        "cluster_id": "HOTSPOT_023",
+        "center_lat": 13.0945,
+        "center_lon": 80.2413,
+        "withdrawal_count": 91,
+        "total_amount_withdrawn": 1044000.0,
+        "city": "Chennai",
+        "dbscan_confidence": 0.6067
+    },
+    {
+        "cluster_id": "HOTSPOT_030",
+        "center_lat": 17.3848,
+        "center_lon": 78.4631,
+        "withdrawal_count": 92,
+        "total_amount_withdrawn": 1034500.0,
+        "city": "Hyderabad",
+        "dbscan_confidence": 0.6133
+    },
+    {
+        "cluster_id": "HOTSPOT_048",
+        "center_lat": 11.0185,
+        "center_lon": 76.9422,
+        "withdrawal_count": 84,
+        "total_amount_withdrawn": 1031500.0,
+        "city": "Bengaluru",
+        "dbscan_confidence": 0.56
+    },
+    {
+        "cluster_id": "HOTSPOT_005",
+        "center_lat": 9.9518,
+        "center_lon": 76.2783,
+        "withdrawal_count": 80,
+        "total_amount_withdrawn": 990000.0,
+        "city": "Bengaluru",
+        "dbscan_confidence": 0.5333
+    },
+    {
+        "cluster_id": "HOTSPOT_003",
+        "center_lat": 11.0077,
+        "center_lon": 76.9732,
+        "withdrawal_count": 79,
+        "total_amount_withdrawn": 969500.0,
+        "city": "Bengaluru",
+        "dbscan_confidence": 0.5267
+    },
+    {
+        "cluster_id": "HOTSPOT_033",
+        "center_lat": 14.4889,
+        "center_lon": 79.9492,
+        "withdrawal_count": 76,
+        "total_amount_withdrawn": 838000.0,
+        "city": "Nellore",
+        "dbscan_confidence": 0.5067
+    },
+    {
+        "cluster_id": "HOTSPOT_029",
+        "center_lat": 13.0559,
+        "center_lon": 80.2786,
+        "withdrawal_count": 72,
+        "total_amount_withdrawn": 825500.0,
+        "city": "Chennai",
+        "dbscan_confidence": 0.48
+    },
+    {
+        "cluster_id": "HOTSPOT_038",
+        "center_lat": 12.9814,
+        "center_lon": 77.6694,
+        "withdrawal_count": 73,
+        "total_amount_withdrawn": 822500.0,
+        "city": "Bengaluru",
+        "dbscan_confidence": 0.4867
+    },
+    {
+        "cluster_id": "HOTSPOT_032",
+        "center_lat": 13.0584,
+        "center_lon": 80.2376,
+        "withdrawal_count": 69,
+        "total_amount_withdrawn": 796500.0,
+        "city": "Chennai",
+        "dbscan_confidence": 0.46
+    }
+]
